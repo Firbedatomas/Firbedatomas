@@ -8,9 +8,15 @@
 <br/>
 <br/>
 
+<!-- ===================== QUICK NAV ===================== -->
+<a href="#about">About</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#frambuesa">Frambuesa</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#context">Context</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#projects">Projects</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#stack">Stack</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#focus">Focus</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#contact">Contact</a>
+
+<br/>
+<br/>
+
 # Tomás Firbeda
 
-### Restaurant operator building Frambuesa
+### Founder & operator building Frambuesa
 
 <p>
   <em>I run real food businesses in Argentina and build software for real restaurant operations.</em>
@@ -18,24 +24,48 @@
 
 <p>
   <a href="https://www.frambuesa.app">
-    <img src="https://img.shields.io/badge/frambuesa.app-d4547d?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/🌐_Website-frambuesa.app-d4547d?style=for-the-badge&labelColor=8a2750" alt="Website" />
+  </a>
+  <a href="https://www.frambuesa.app">
+    <img src="https://img.shields.io/badge/🚀_Main_project-Frambuesa-c2406b?style=for-the-badge&labelColor=8a2750" alt="Main project" />
   </a>
   <a href="https://x.com/firbedatomas">
-    <img src="https://img.shields.io/badge/@firbedatomas-1a1a1a?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+    <img src="https://img.shields.io/badge/𝕏_/_Twitter-@firbedatomas-1a1a1a?style=for-the-badge&labelColor=000000" alt="X / Twitter" />
   </a>
-  <img src="https://img.shields.io/badge/Argentina-LATAM-c2406b?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Argentina · LATAM" />
+  <img src="https://img.shields.io/badge/📍_Córdoba,_Argentina-LATAM-7a1f3d?style=for-the-badge&labelColor=4d1226" alt="Córdoba, Argentina · LATAM" />
 </p>
 
 </div>
 
 <br/>
 
+<!-- ===================== ABOUT ===================== -->
+<a id="about"></a>
+
+## 👋 Who I am
+
+I'm a **founder, operator and builder**. I don't just write code for restaurants — I **run** restaurants, cafés and food stores, and I build the software they run on.
+
+That order matters: **operator first, software second.** Frambuesa exists because I needed it on the floor, during service, with real staff and real customers — not as an idea on a slide.
+
+### Why this is different
+
+> I don't build restaurant software from a whiteboard.
+> I run real operations and build from real friction.
+> **Frambuesa is shaped by live service, staff needs and daily business reality.**
+
+Most tools in this space are designed by people who have never closed a register at midnight. Mine isn't.
+
+<br/>
+
 <!-- ===================== BUILDING FRAMBUESA ===================== -->
+<a id="frambuesa"></a>
+
 <div align="center">
   <img src="./assets/frambuesa-logo.svg" width="64" alt="Frambuesa" />
 </div>
 
-## Building Frambuesa
+## 🍓 Building Frambuesa
 
 **Frambuesa** is operational software for restaurants, cafés and food businesses across **LATAM** — built to run the counter, the kitchen, delivery and the back office from a single place.
 
@@ -43,34 +73,29 @@ It isn't a side project or a demo. It's the system I use to run my own stores, s
 
 > The goal is simple: **software that survives a Saturday night.**
 
-<br/>
+### Why Frambuesa exists
 
-<!-- ===================== REAL-WORLD CONTEXT ===================== -->
-## Real-world context
+Restaurant owners in LATAM are stuck between expensive foreign software that doesn't fit local reality (billing, payments, devices, connectivity) and improvised spreadsheets. Frambuesa closes that gap with a product that is **mobile-first, locally compliant, and built for real operational pressure**.
 
-<table width="100%">
-  <tr align="center">
-    <td><h2>4</h2></td>
-    <td><h2>45+</h2></td>
-    <td><h2>100%</h2></td>
-    <td><h2>📱</h2></td>
-  </tr>
-  <tr align="center">
-    <td><sub><b>active food stores</b></sub></td>
-    <td><sub><b>people in daily operation</b></sub></td>
-    <td><sub><b>built from real restaurant operations</b></sub></td>
-    <td><sub><b>mobile-first for LATAM</b></sub></td>
-  </tr>
-</table>
-
-- **Built from real restaurant operations**, not from a whiteboard
-- **Tested in production environments** with real money and real shifts
-- **Mobile-first** for the devices LATAM businesses actually use
+<details>
+<summary><b>📖 More about Frambuesa</b></summary>
 
 <br/>
 
-<!-- ===================== WHAT FRAMBUESA DOES ===================== -->
-## What Frambuesa does
+Frambuesa is a single platform that follows the full lifecycle of a sale and an operation:
+
+- A customer scans a **QR menu** or orders via **WhatsApp delivery**
+- Staff take and fire the order from a fast **POS**
+- The **printing connector** sends tickets to kitchen and counter printers
+- **Stock** updates across branches in real time
+- The sale is closed and **billed (AFIP / ARCA)** for Argentine compliance
+- Owners watch it all through **business analytics**
+
+Everything is designed so a new employee can be productive in minutes, on the devices LATAM businesses already have.
+
+</details>
+
+### What Frambuesa does
 
 <table width="100%">
   <tr valign="top">
@@ -95,8 +120,86 @@ It isn't a side project or a demo. It's the system I use to run my own stores, s
 
 <br/>
 
+<!-- ===================== REAL-WORLD CONTEXT ===================== -->
+<a id="context"></a>
+
+## 🔥 Real-world context
+
+<table width="100%">
+  <tr align="center">
+    <td><h2>4</h2></td>
+    <td><h2>45+</h2></td>
+    <td><h2>100%</h2></td>
+    <td><h2>📱</h2></td>
+  </tr>
+  <tr align="center">
+    <td><sub><b>active food stores</b></sub></td>
+    <td><sub><b>people in daily operation</b></sub></td>
+    <td><sub><b>built from real operations</b></sub></td>
+    <td><sub><b>mobile-first for LATAM</b></sub></td>
+  </tr>
+</table>
+
+<br/>
+
+- 🏪 **4 active food stores** running on the ground
+- 👥 **45+ people** in daily operation
+- 🛠️ **Built from real restaurant operations**, not from a whiteboard
+- ✅ **Tested in real production environments** — real sales, real shifts, real staff
+- 📈 **Designed for real service pressure** and daily use under load
+
+<details>
+<summary><b>🍽️ Operational reality</b></summary>
+
+<br/>
+
+This is the environment Frambuesa is built for and tested in:
+
+- **Rush hours** where every extra tap costs money and patience
+- **Multiple branches** that need consistent stock and pricing
+- **Hardware that must work** — thermal printers, tablets, low-end phones
+- **Staff rotation**, so the UI has to be obvious without training
+- **Connectivity that isn't perfect**, so flows stay resilient
+
+When the product fails, *I* feel it at the register. That feedback loop is the whole advantage.
+
+</details>
+
+<br/>
+
+<!-- ===================== FEATURED PROJECTS ===================== -->
+<a id="projects"></a>
+
+## 🧩 Featured Projects
+
+<table width="100%">
+  <tr valign="top">
+    <td width="33%" align="center">
+      <a href="https://www.frambuesa.app"><img src="./assets/frambuesa-logo.svg" width="44" alt="Frambuesa" /></a>
+      <br/>
+      <b><a href="https://www.frambuesa.app">Frambuesa</a></b>
+      <br/>
+      <sub>Operational software for restaurants & cafés in LATAM — POS, QR menu, delivery, stock, billing & multi-branch.</sub>
+    </td>
+    <td width="33%" align="center">
+      <b>MediaUpload</b>
+      <br/>
+      <sub>Local-first media drop: drag & drop screenshots and clips, get an instant shareable URL to feed AI agents.</sub>
+    </td>
+    <td width="33%" align="center">
+      <b><a href="https://consultoriafirbeda.vercel.app">Consultoría Firbeda</a></b>
+      <br/>
+      <sub>Advisory site and automation (Telegram bot) for my consulting work with local businesses.</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <!-- ===================== STACK ===================== -->
-## Stack
+<a id="stack"></a>
+
+## 🛠️ Stack
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -111,32 +214,82 @@ It isn't a side project or a demo. It's the system I use to run my own stores, s
   <img src="https://img.shields.io/badge/Plausible-5850EC?style=flat-square&logo=plausibleanalytics&logoColor=white" alt="Plausible" />
 </p>
 
+<details>
+<summary><b>⚙️ Tech stack details</b></summary>
+
+<br/>
+
+| Layer | Tools | Why |
+|---|---|---|
+| **Frontend** | Next.js · TypeScript | Fast, mobile-first UI for the floor |
+| **Data** | Supabase · PostgreSQL · Prisma | Realtime stock & sales, typed access |
+| **Hosting** | Vercel · Hetzner · Docker · Caddy | App on the edge, services self-hosted |
+| **Insight** | Plausible | Lightweight, privacy-friendly analytics |
+
+The stack is chosen for **reliability under pressure** and **low operational cost**, not for hype.
+
+</details>
+
 <br/>
 
 <!-- ===================== CURRENT FOCUS ===================== -->
-## Current focus
+<a id="focus"></a>
+
+## 🎯 Current focus
 
 - ⚡ Making the **POS and printing flow** fast and reliable under real rush-hour load
 - 🏬 Deepening **multi-branch stock** and operations for growing businesses
 - 🧮 Tightening **billing (AFIP / ARCA)** for Argentine compliance
 - 📈 Turning daily operations into **clear, useful analytics** for owners
 
+<details>
+<summary><b>🗂️ Current priorities</b></summary>
+
 <br/>
 
-<!-- ===================== LINKS ===================== -->
+1. **Rock-solid printing** across kitchen and counter hardware
+2. **Multi-branch** stock, pricing and reporting at scale
+3. **Billing compliance** (AFIP / ARCA) without friction for staff
+4. **Owner analytics** that answer "how is the business doing?" at a glance
+
+</details>
+
+<details>
+<summary><b>🧠 Product philosophy</b></summary>
+
+<br/>
+
+- **Operator first.** If it doesn't help during service, it doesn't ship.
+- **Obvious over clever.** New staff should learn it without a manual.
+- **Mobile-first.** Built for the devices LATAM businesses actually use.
+- **Survive the rush.** Speed and resilience beat feature count.
+
+</details>
+
+<br/>
+
+<!-- ===================== CONTACT ===================== -->
+<a id="contact"></a>
+
 <div align="center">
 
-### Let's talk
+## 📬 Building Frambuesa for restaurant operations in LATAM
 
-<a href="https://www.frambuesa.app"><b>frambuesa.app</b></a>
-&nbsp;·&nbsp;
-<a href="https://x.com/firbedatomas"><b>@firbedatomas</b></a>
+<a href="https://www.frambuesa.app">
+  <img src="https://img.shields.io/badge/🌐_frambuesa.app-d4547d?style=for-the-badge&labelColor=8a2750" alt="Website" />
+</a>
+<a href="https://x.com/firbedatomas">
+  <img src="https://img.shields.io/badge/𝕏_@firbedatomas-1a1a1a?style=for-the-badge&labelColor=000000" alt="X / Twitter" />
+</a>
+<a href="mailto:firbedatomasf@gmail.com">
+  <img src="https://img.shields.io/badge/✉️_Email-c2406b?style=for-the-badge&labelColor=8a2750" alt="Email" />
+</a>
 
 <br/>
 <br/>
 
 <img src="./assets/frambuesa-logo.svg" width="34" alt="Frambuesa" />
 
-<sub><b>Frambuesa</b> — software for real food businesses in LATAM.</sub>
+<sub><b>Frambuesa</b> — software for real food businesses in LATAM. Follow the journey.</sub>
 
 </div>
